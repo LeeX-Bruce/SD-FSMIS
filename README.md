@@ -2,7 +2,7 @@
 
 **Paper**: [SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2604.03134)
 
-This repository contains the official implementation of SD-FSMIS, a frequency-aware medical image segmentation method leveraging Stable Diffusion priors.
+This repository contains the official implementation of SD-FSMIS, a medical image segmentation method leveraging Stable Diffusion.
 
 ## 项目结构
 
