@@ -59,13 +59,18 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-### 1. 处理SD权重
+### 1. 下载数据集
+
+[onedrive](https://1drv.ms/u/c/3fa553821b21504c/IQD1YL43eEq6Q6YVIfkpQvNbAZ65N671lKQOjAP7HaUfQ5w?e=neL8nt)
+
+
+### 2. 处理SD权重
 
 ```python
 python scripts/model_weight_preprocess.py
 ```
 
-### 2. 训练
+### 3. 训练
 
 使用 `scripts/my_train_query.sh` 脚本启动训练：
 
@@ -73,7 +78,7 @@ python scripts/model_weight_preprocess.py
 bash scripts/my_train_query.sh
 ```
 
-### 3. 测试
+### 4. 测试
 
 使用提供的测试脚本进行推理：
 
